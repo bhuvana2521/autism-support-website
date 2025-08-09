@@ -2,3 +2,5 @@ streamlit
 bcrypt
 pandas
 numpy
+streamlit-extras
+
